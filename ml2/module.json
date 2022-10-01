@@ -1,5 +1,6 @@
 {
   "id": "ml2",
+	"name": "Foundryvttmodlisttest01/module.json",
   "title": "ModList",
   "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
   "authors": [
