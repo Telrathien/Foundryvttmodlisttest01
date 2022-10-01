@@ -1,33 +1,15 @@
 {
   "id": "Foundryvttmodlisttest01",
-  "title": "ModList",
+  "title": "Dice Tray - An Example FVTT Module",
   "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
   "authors": [
     {
-    "name": "David"
+    "name": "Atropos"
     }
     ],
   "version": "1.0.0",
   "compatibility": {
     "minimum": "9",
     "verified": "10"
-  },
-"relationships": {
-	"systems": [{
-		"id": "pf1",		
-		"type": "system",
-		"manifest": "https://gitlab.com/foundryvtt_pathfinder1e/foundryvtt-pathfinder1/-/raw/latest/system.json",
-		"compatibility": {
-			"verified": "0.82.2"
-		}
-  }],
-  
-  "requires": [{  
-    
-      "id": "ATL",
-      "version": "0.4.01",
-      "author": "Kandashi",
-      "manifest": "https://github.com/kandashi/Active-Token-Lighting/releases/latest/download/module.json"
-    }
-  ]
-}}
+  }
+}
