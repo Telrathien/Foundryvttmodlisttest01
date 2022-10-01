@@ -16,7 +16,7 @@
 	"systems": [{
 		"id": "pf1",		
 		"type": "system",
-		"manifest": "https://gitlab.com/foundryvtt_pathfinder1e/foundryvtt-pathfinder1/-/raw/latest/system.json"
+		"manifest": "https://gitlab.com/foundryvtt_pathfinder1e/foundryvtt-pathfinder1/-/raw/latest/system.json",
 		"compatibility": {
 			"verified": "0.82.2"
 		}
